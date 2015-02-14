@@ -52,7 +52,7 @@ html,body{
 }
 #work {
 	display: none;
-	width: 100%; 
+	width: 45%; 
 	height:100%;
 	margin-top:5px;
 	margin-right:auto;
@@ -62,7 +62,7 @@ html,body{
 }
 #about {
 	display: none;
-	width: 100%; 
+	width: 45%; 
 	height:100%;
 	margin-top:5px;
 	margin-right:auto;
@@ -71,7 +71,7 @@ html,body{
 }
 #contact {
 	display: none;
-	width: 100%; 
+	width: 45%; 
 	height:100%;
 	margin-top:5px;
 	margin-right:auto;
@@ -83,4 +83,4 @@ html,body{
 	border-bottom: 1px solid black;
 	margin:55px;
 	cursor: pointer;
-}
+}
