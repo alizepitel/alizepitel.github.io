@@ -35,9 +35,9 @@
 			  <div class="collapse navbar-collapse navbar-ex1-collapse">
 			    <ul class="nav navbar-nav">
 			      <li><a onclick="$('header').animatescroll({padding:71});">Home</a></li>
-			      <li><a onclick="$('.detail').animatescroll({padding:71});">Work</a></li>
-			      <li><a onclick="$('.features').animatescroll({padding:71});">About</a></li>
-			      <li><a onclick="$('.social').animatescroll({padding:71});">Contact</a></li>
+			      <li><a onclick="$('.detail').animatescroll({padding:71});">Screens</a></li>
+			      <li><a onclick="$('.features').animatescroll({padding:71});">Features</a></li>
+			      <li><a onclick="$('.social').animatescroll({padding:71});">Social</a></li>
 			    </ul>
 			  </div>
 		  </div>
@@ -50,8 +50,8 @@
 		 <div class="container">
 			 <div class="row">
 				 <div class="col-md-12">
-					  <h1>Alizé Pitel</h1>
-					  <p class="lead">Scroll down and discover my work</p>
+					  <h1>Hello World!</h1>
+					  <p class="lead">This is an Awesome App Landing Page</p>
 					  
 					  <div class="carousel-iphone">
 					  	<div id="carousel-example-generic" class="carousel slide">
